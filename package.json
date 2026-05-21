@@ -1,0 +1,16 @@
+{
+  "name": "dabscript",
+  "version": "0.0.1",
+  "description": "Learn JavaScript with DabScript.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build"
+  },
+  "dependencies": {
+    "docus": "latest",
+    "better-sqlite3": "^12.6.2",
+    "nuxt": "^4.3.1"
+  }
+}
